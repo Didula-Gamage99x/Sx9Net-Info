@@ -19,7 +19,7 @@ A simple Linux network information tool.
 ## Installation
 
 ```bash
-git clone https://github.com/Sash-Gamage/Sx9Net-Info.git
+git clone https://github.com/Real-time word and character counter built with HTML, CSS, and JavaScript./Sx9Net-Info.git
 cd Sx9Net-Info
 chmod +x sx9net-info.sh
 ./sx9net-info.sh
